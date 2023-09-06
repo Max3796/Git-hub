@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&family=Oswald:wght@200;400;600&family=Poppins:wght@300&family=Roboto&family=Rubik+Iso&display=swap');
+
+body{
+    background-image: url("https://wallpaperaccess.com/full/1162646.gif");
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Rubik Iso', cursive;
+    color: aliceblue;
+}
+h1{
+    font-size: 75px;
+    text-align: center;
+}
+iframe{
+    margin-left: 35px;
+}
